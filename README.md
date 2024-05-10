@@ -9,7 +9,7 @@
 2. Start the app
 
    ```bash
-    npx expo start
+   npx expo start
    ```
 
 3. Open in Expo Go in Android, click the "ENABLE BACKGROUND LOCATION" button in the home page, and the warning should appear:
